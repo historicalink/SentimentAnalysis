@@ -1,0 +1,21 @@
+# Ignorar archivos de puntos de control de Jupyter
+*/.ipynb_checkpoints/
+
+# Ignorar archivos y directorios de configuración de entornos virtuales
+venv/
+env/
+.venv/
+.env/
+
+# Ignorar archivos de configuración específicos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos compilados
+*.pyc
+__pycache__/
+
+# Ignorar archivos de configuración del IDE
+.idea/
+.vscode/
+
