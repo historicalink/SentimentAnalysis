@@ -1,0 +1,712 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d4" for="edge" attr.name="sentiment" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="word" attr.type="string" />
+  <key id="d1" for="node" attr.name="sentiment" attr.type="string" />
+  <key id="d0" for="node" attr.name="appearances" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="19">
+      <data key="d0">2009</data>
+      <data key="d1">NEGATIVO</data>
+      <data key="d2">colombia</data>
+    </node>
+    <node id="18">
+      <data key="d0">3060</data>
+      <data key="d1">NEGATIVO</data>
+      <data key="d2">pueblo</data>
+    </node>
+    <node id="1">
+      <data key="d0">2455</data>
+      <data key="d1">NEGATIVO</data>
+      <data key="d2">doctor</data>
+    </node>
+    <node id="3">
+      <data key="d0">7906</data>
+      <data key="d1">NEUTRO</data>
+      <data key="d2">senor</data>
+    </node>
+    <node id="7">
+      <data key="d0">2382</data>
+      <data key="d1">NEGATIVO</data>
+      <data key="d2">bogota</data>
+    </node>
+    <node id="12">
+      <data key="d0">1858</data>
+      <data key="d1">NEUTRO</data>
+      <data key="d2">dio</data>
+    </node>
+    <node id="13">
+      <data key="d0">4404</data>
+      <data key="d1">POSITIVO</data>
+      <data key="d2">hombre</data>
+    </node>
+    <node id="15">
+      <data key="d0">2325</data>
+      <data key="d1">NEGATIVO</data>
+      <data key="d2">obra</data>
+    </node>
+    <node id="14">
+      <data key="d0">3270</data>
+      <data key="d1">NEGATIVO</data>
+      <data key="d2">diar</data>
+    </node>
+    <node id="0">
+      <data key="d0">2542</data>
+      <data key="d1">NEUTRO</data>
+      <data key="d2">numero</data>
+    </node>
+    <node id="4">
+      <data key="d0">2501</data>
+      <data key="d1">NEGATIVO</data>
+      <data key="d2">ciudad</data>
+    </node>
+    <node id="17">
+      <data key="d0">1522</data>
+      <data key="d1">POSITIVO</data>
+      <data key="d2">muerte</data>
+    </node>
+    <node id="16">
+      <data key="d0">4300</data>
+      <data key="d1">NEGATIVO</data>
+      <data key="d2">ano</data>
+    </node>
+    <node id="5">
+      <data key="d0">2137</data>
+      <data key="d1">NEGATIVO</data>
+      <data key="d2">alli</data>
+    </node>
+    <node id="2">
+      <data key="d0">3237</data>
+      <data key="d1">POSITIVO</data>
+      <data key="d2">gobierno</data>
+    </node>
+    <node id="11">
+      <data key="d0">2134</data>
+      <data key="d1">POSITIVO</data>
+      <data key="d2">patria</data>
+    </node>
+    <node id="8">
+      <data key="d0">1798</data>
+      <data key="d1">NEUTRO</data>
+      <data key="d2">pai</data>
+    </node>
+    <node id="9">
+      <data key="d0">2446</data>
+      <data key="d1">NEUTRO</data>
+      <data key="d2">nombre</data>
+    </node>
+    <edge source="19" target="18">
+      <data key="d3">146.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="19" target="3">
+      <data key="d3">422.5</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="19" target="14">
+      <data key="d3">120.5</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="19" target="12">
+      <data key="d3">49.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="19" target="8">
+      <data key="d3">117.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="19" target="0">
+      <data key="d3">169.0</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="19" target="9">
+      <data key="d3">153.0</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="19" target="1">
+      <data key="d3">122.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="19" target="2">
+      <data key="d3">259.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="19" target="4">
+      <data key="d3">80.0</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="19" target="16">
+      <data key="d3">185.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="19" target="13">
+      <data key="d3">198.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="19" target="7">
+      <data key="d3">195.5</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="19" target="11">
+      <data key="d3">191.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="19" target="15">
+      <data key="d3">157.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="19" target="17">
+      <data key="d3">60.5</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="19" target="5">
+      <data key="d3">66.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="18" target="14">
+      <data key="d3">232.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="18" target="3">
+      <data key="d3">315.5</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="18" target="1">
+      <data key="d3">77.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="18" target="13">
+      <data key="d3">316.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="18" target="5">
+      <data key="d3">122.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="18" target="12">
+      <data key="d3">118.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="18" target="2">
+      <data key="d3">253.5</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="18" target="11">
+      <data key="d3">189.5</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="18" target="8">
+      <data key="d3">110.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="18" target="17">
+      <data key="d3">88.5</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="18" target="15">
+      <data key="d3">93.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="18" target="9">
+      <data key="d3">213.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="18" target="7">
+      <data key="d3">115.0</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="18" target="4">
+      <data key="d3">210.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="18" target="16">
+      <data key="d3">194.5</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="18" target="0">
+      <data key="d3">143.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="1" target="3">
+      <data key="d3">1314.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="1" target="14">
+      <data key="d3">166.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="1" target="13">
+      <data key="d3">171.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="1" target="17">
+      <data key="d3">100.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="1" target="9">
+      <data key="d3">126.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="1" target="0">
+      <data key="d3">147.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="1" target="5">
+      <data key="d3">68.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="1" target="2">
+      <data key="d3">182.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="1" target="7">
+      <data key="d3">208.0</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="1" target="12">
+      <data key="d3">78.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="1" target="8">
+      <data key="d3">107.5</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="1" target="4">
+      <data key="d3">150.5</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="1" target="15">
+      <data key="d3">117.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="1" target="16">
+      <data key="d3">314.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="1" target="11">
+      <data key="d3">101.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="3" target="7">
+      <data key="d3">709.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="3" target="12">
+      <data key="d3">305.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="3" target="13">
+      <data key="d3">477.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="3" target="14">
+      <data key="d3">522.5</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="3" target="8">
+      <data key="d3">304.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="3" target="15">
+      <data key="d3">541.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="3" target="0">
+      <data key="d3">634.0</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="3" target="16">
+      <data key="d3">755.5</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="3" target="5">
+      <data key="d3">291.0</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="3" target="9">
+      <data key="d3">431.5</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="3" target="2">
+      <data key="d3">628.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="3" target="4">
+      <data key="d3">530.0</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="3" target="11">
+      <data key="d3">284.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="3" target="17">
+      <data key="d3">232.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="7" target="2">
+      <data key="d3">219.0</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="7" target="0">
+      <data key="d3">246.5</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="7" target="8">
+      <data key="d3">94.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="7" target="14">
+      <data key="d3">162.5</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="7" target="4">
+      <data key="d3">243.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="7" target="16">
+      <data key="d3">317.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="7" target="11">
+      <data key="d3">80.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="7" target="9">
+      <data key="d3">125.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="7" target="15">
+      <data key="d3">141.5</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="7" target="5">
+      <data key="d3">107.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="7" target="12">
+      <data key="d3">57.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="7" target="13">
+      <data key="d3">92.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="7" target="17">
+      <data key="d3">68.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="12" target="13">
+      <data key="d3">264.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="12" target="15">
+      <data key="d3">72.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="12" target="2">
+      <data key="d3">56.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="12" target="14">
+      <data key="d3">136.5</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="12" target="8">
+      <data key="d3">29.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="12" target="0">
+      <data key="d3">54.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="12" target="16">
+      <data key="d3">141.0</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="12" target="4">
+      <data key="d3">63.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="12" target="11">
+      <data key="d3">92.0</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="12" target="5">
+      <data key="d3">69.5</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="12" target="9">
+      <data key="d3">95.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="12" target="17">
+      <data key="d3">94.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="13" target="15">
+      <data key="d3">154.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="13" target="0">
+      <data key="d3">142.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="13" target="4">
+      <data key="d3">111.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="13" target="17">
+      <data key="d3">165.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="13" target="11">
+      <data key="d3">247.5</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="13" target="9">
+      <data key="d3">231.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="13" target="16">
+      <data key="d3">301.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="13" target="2">
+      <data key="d3">214.5</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="13" target="14">
+      <data key="d3">267.5</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="13" target="8">
+      <data key="d3">196.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="13" target="5">
+      <data key="d3">160.0</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="15" target="8">
+      <data key="d3">150.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="15" target="14">
+      <data key="d3">107.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="15" target="2">
+      <data key="d3">154.5</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="15" target="16">
+      <data key="d3">249.5</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="15" target="17">
+      <data key="d3">52.5</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="15" target="11">
+      <data key="d3">107.5</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="15" target="5">
+      <data key="d3">79.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="15" target="0">
+      <data key="d3">96.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="15" target="9">
+      <data key="d3">128.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="15" target="4">
+      <data key="d3">112.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="14" target="9">
+      <data key="d3">139.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="14" target="5">
+      <data key="d3">146.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="14" target="16">
+      <data key="d3">330.0</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="14" target="8">
+      <data key="d3">96.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="14" target="4">
+      <data key="d3">236.5</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="14" target="17">
+      <data key="d3">125.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="14" target="2">
+      <data key="d3">200.5</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="14" target="11">
+      <data key="d3">160.5</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="14" target="0">
+      <data key="d3">220.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="0" target="2">
+      <data key="d3">169.0</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="0" target="9">
+      <data key="d3">122.0</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="0" target="5">
+      <data key="d3">69.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="0" target="8">
+      <data key="d3">68.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="0" target="4">
+      <data key="d3">128.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="0" target="16">
+      <data key="d3">268.5</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="0" target="11">
+      <data key="d3">83.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="0" target="17">
+      <data key="d3">46.5</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="4" target="5">
+      <data key="d3">141.0</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="4" target="9">
+      <data key="d3">201.0</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="4" target="16">
+      <data key="d3">358.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="4" target="2">
+      <data key="d3">166.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="4" target="11">
+      <data key="d3">84.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="4" target="17">
+      <data key="d3">53.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="4" target="8">
+      <data key="d3">76.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="17" target="5">
+      <data key="d3">75.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="17" target="2">
+      <data key="d3">54.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="17" target="8">
+      <data key="d3">29.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="17" target="16">
+      <data key="d3">152.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="17" target="11">
+      <data key="d3">90.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="17" target="9">
+      <data key="d3">87.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="16" target="5">
+      <data key="d3">196.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="16" target="2">
+      <data key="d3">337.0</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="16" target="11">
+      <data key="d3">202.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="16" target="9">
+      <data key="d3">216.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="16" target="8">
+      <data key="d3">182.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="5" target="11">
+      <data key="d3">75.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+    <edge source="5" target="2">
+      <data key="d3">113.5</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="5" target="8">
+      <data key="d3">69.0</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="5" target="9">
+      <data key="d3">109.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="2" target="8">
+      <data key="d3">282.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="2" target="11">
+      <data key="d3">129.0</data>
+      <data key="d4">NEUTRO</data>
+    </edge>
+    <edge source="2" target="9">
+      <data key="d3">101.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="11" target="8">
+      <data key="d3">122.5</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="11" target="9">
+      <data key="d3">177.0</data>
+      <data key="d4">POSITIVO</data>
+    </edge>
+    <edge source="8" target="9">
+      <data key="d3">127.0</data>
+      <data key="d4">NEGATIVO</data>
+    </edge>
+  </graph>
+</graphml>
